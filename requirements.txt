@@ -1,0 +1,4 @@
+FLASK==2.0.1
+psycopg2-binary==2.9.1
+pyjwt==2.3.0
+Werkzeug==2.0.1

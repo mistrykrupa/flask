@@ -1,0 +1,4 @@
+bill_no,bill_date,medicine_name,quantity,mrp,expiry_date
+1234,20/10/23,paracetamol,5,150,25/8/24
+1234,20/10/23,herceptin,8,275,15/5/23
+1234,20/10/23,abcd,3,30,14/7/2024
