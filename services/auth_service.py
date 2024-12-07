@@ -25,7 +25,7 @@ class AuthService:
     @staticmethod
     def authenticate_user(username, password):
         """Handles user authentication."""
-        user = UserModel.find_by_username(username)
+        user = UserModel.find_username(username)
         if not user:
             return jsonify({'message':'Invalid username','error':True})
         
